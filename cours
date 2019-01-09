@@ -1,0 +1,33 @@
+Admin Sys
+
+1) Commandes 
+	a) sys
+	
+	df = utilisation espace disk
+
+	top = process en cours
+
+	ps = process sur le moment
+
+	kill = stop le process
+
+
+	b) reseau
+	ifconfig = configure interface reseau
+
+	ping = envoie packet vers autre serveur qui renvoie pong
+
+	netstat = connexions
+
+	traceroute = itineraire du trajet du packet
+
+	c) fichers de config
+	hosts = def IP et name mauellement
+
+	networks = donne nom logique au reseau
+
+	host.conf = savoir qui resout quoi
+
+	resolv.conf = premet de definir les DNS
+
+	interfaces = config l'ensemble des interfaces system niveau reseau	

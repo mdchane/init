@@ -1,0 +1,3 @@
+# list interfaces reseau
+# -l juste les noms
+ifconfig -l

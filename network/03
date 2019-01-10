@@ -1,0 +1,2 @@
+# adr MAC Wifi (en0 cable ethernet et en1 Wifi)
+ifconfig en1 | grep ether | cut -d ' ' -f2

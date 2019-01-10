@@ -1,0 +1,3 @@
+# affiche les adresses reseau comme des nombres
+# affiche table de route
+netstat -nr | grep -m 1 default | cut -d ' ' -f13

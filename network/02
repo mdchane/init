@@ -1,0 +1,2 @@
+# IP sous reseau de broadcast
+ifconfig | grep broadcast | cut -d ' ' -f2

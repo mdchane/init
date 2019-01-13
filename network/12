@@ -1,1 +1,1 @@
-nslookup dhcp.42.fr
+nslookup dhcp.42.fr | grep Address | tail -1

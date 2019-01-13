@@ -1,0 +1,2 @@
+On peut recuperer l'adresse IP du serveur DNS utilise dans le
+fichier /etc/resolv.conf .

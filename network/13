@@ -1,0 +1,7 @@
+# on fait la commade inverse cad, nslookup 10.51.1.253,
+# et on a :
+Server:10.51.1.42
+Address:10.51.1.42#53
+
+253.1.51.10.in-addr.arpa				name = dhcp.42.fr.
+# donc on retrouve le nom du host

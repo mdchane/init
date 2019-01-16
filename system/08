@@ -1,0 +1,2 @@
+les cles RSA des machines authorisees a se connecter via SSH est :
+/home/mdchane/.ssh/authorized_keys

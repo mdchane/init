@@ -1,0 +1,2 @@
+du -hd1 /var
+#d1 = niveau de profondeur max de 1 (cad sous dossier de /var)

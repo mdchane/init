@@ -1,0 +1,13 @@
+#ls /etc/init.d/
+console-setup.sh
+cron
+dbus
+hwclock.sh
+keyboard-setup.sh
+kmod
+networking
+procps
+rsyslog
+ssh
+sudo
+udev

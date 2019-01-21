@@ -1,0 +1,8 @@
+#!/bin/sh
+dir=$PWD
+echo $dir
+cd $dir
+git add *
+git commit -m $1
+git push
+exit

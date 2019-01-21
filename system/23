@@ -1,0 +1,3 @@
+Soit on fait 'exit' jusqu'a ce que la machine nous
+demande sur quel user on veut se connecter.
+Soit on fait la commande: 'su $user'

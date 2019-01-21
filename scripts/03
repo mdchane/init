@@ -3,6 +3,7 @@ dir=$PWD
 cd $1
 pwd
 git add *
+git status
 git commit -m $2
 git push
 cd $dir

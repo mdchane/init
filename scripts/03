@@ -1,4 +1,5 @@
 #!/bin/sh
+echo $#
 dir=$PWD
 cd $1
 pwd

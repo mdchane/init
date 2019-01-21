@@ -1,8 +1,7 @@
 #!/bin/sh
 dir=$PWD
-echo $dir
-cd ~
 cd $1
+pwd
 git add *
 git commit -m $2
 git push

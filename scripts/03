@@ -1,8 +1,10 @@
 #!/bin/sh
 dir=$PWD
 echo $dir
-cd $dir
+cd ~
+cd $1
 git add *
-git commit -m $1
+git commit -m $2
 git push
+cd $dir
 exit
